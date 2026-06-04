@@ -1,6 +1,8 @@
 #include "sub.h"
 
-int sub(int x, int y)
+
+//sub 브랜치에서 수정
+int sub(int a, int b)
 {
-	return 0;
+	return a - b;
 }
