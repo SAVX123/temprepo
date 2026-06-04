@@ -1,7 +1,6 @@
 #include "sub.h"
 
-//mod
-int sub(int x, int y)
+int sub(int a, int b)
 {
-	return 0;
+	return a - b;
 }
