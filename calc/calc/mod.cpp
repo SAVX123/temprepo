@@ -1,6 +1,7 @@
 #include "mod.h"
 
-int mod(int x, int y)
+//mod
+int mod(int a, int b)
 {
-	return 0;
+	return a / b;
 }
